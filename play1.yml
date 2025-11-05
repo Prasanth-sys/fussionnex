@@ -12,4 +12,6 @@
        gecos: "This is service account for sap Admin"
       # state: present
        state: absent
-... 
+... \
+
+this is new line for after editing 
